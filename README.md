@@ -10,10 +10,10 @@
 - 기획자, 디자이너 없이 개발한 1인개발 프로젝트입니다. 필요한 리소스는 에셋스토어, AI를 활용하였습니다.
 
 ## 2. 개발환경
-UNITY 2020.3.15f2 / Built-in Render Pipeline / C#
-Visual Studio 2022
-Windows 10
-2025.01 ~ 2026.04 (16개월)
+- UNITY 2020.3.15f2 / Built-in Render Pipeline / C#
+- Visual Studio 2022
+- Windows 10
+- 2025.01 ~ 2026.04 (16개월)
 
 ## 3. 사용기술
 - 디자인 패턴 : Single Tone 패턴으로 매니저 관리
@@ -33,9 +33,9 @@ Windows 10
     자체 스크립트로 한국어와 영어 세팅에 따라 텍스트가 번역되도록 제작하였습니다.
 
 ## 5. 플레이영상
-공식영상: https://youtu.be/fBikegZzxp0?si=7YVe6WWaxVvqXpH2
-https://youtu.be/0hD4RGMVt0I?si=RXO2B32bZbqi4WII
-https://youtu.be/WxlNr_-e1V0?si=6D4gd2wi31g_lXJD
+- 공식영상: https://youtu.be/fBikegZzxp0?si=7YVe6WWaxVvqXpH2
+- https://youtu.be/0hD4RGMVt0I?si=RXO2B32bZbqi4WII
+- https://youtu.be/WxlNr_-e1V0?si=6D4gd2wi31g_lXJD
 
 ## 6. 링크
-https://store.steampowered.com/app/3920940/_/
+- https://store.steampowered.com/app/3920940/_/
